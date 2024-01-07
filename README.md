@@ -4,6 +4,6 @@ EventStorming a diagram achitektury: https://www.figma.com/file/OHlRrDyXh2ywuEJT
 
 Architektura - služby a nacenění: https://docs.google.com/document/d/1ugjM3g4hvA6QjawFjwHay3hdKYlXHDxU92zXJX1qhCs/edit?usp=sharing
 
-DRAFT Implementace:
+DRAFT Implementace jednoho bounded contextu:
 https://github.com/ManasComp/FakeBooking
 konkrétně: https://github.com/ManasComp/FakeBooking/pull/1
