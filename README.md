@@ -6,4 +6,4 @@ Architektura - služby a nacenění: https://docs.google.com/document/d/1ugjM3g4
 
 DRAFT Implementace jednoho bounded contextu:
 https://github.com/ManasComp/FakeBooking
-konkrétně: https://github.com/ManasComp/FakeBooking/pull/1
+konkrétně: https://github.com/ManasComp/FakeBooking/pull/2
